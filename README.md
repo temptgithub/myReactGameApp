@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a TIC TAC TOE GAME APP built using : Node.js, Express, React, Javascript, CSS
+This game can be accessed by clicking : https://tttreactapp.herokuapp.com/
 
 ## Available Scripts
 
